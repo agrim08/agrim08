@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@agrimgupta0805](https://medium.com/@agrimgupta0805)
 
-- 💬 Ask me about **react, tailwind , python**
+- 💬 Ask me about **JavaScript, react, tailwind , python**
 
 - 📫 How to reach me **agrimgupta8105@gmail.com**
 
