@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and Node Js**
 
-- 📝 Check out my article on **Quantum Computing** (https://medium.com/@agrimgupta0805/quantum-computing-cd60211c7845)
+- 📝 Read my Articles :- https://medium.com/@agrimgupta0805
 
 - 💬 Ask me about **JavaScript, react, tailwind , python**
 
