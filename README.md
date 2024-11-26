@@ -5,7 +5,7 @@
 
 - 📝 Read my Articles :- https://medium.com/@agrimgupta0805
 
-- 💬 Ask me about **JavaScript, react, tailwind , python**
+- 💬 Ask me about **JavaScript, react, tailwind, python,  nodeJs, expressJs, MongoDb**
 
 - 📫 How to reach me **agrimgupta8105@gmail.com**
 
