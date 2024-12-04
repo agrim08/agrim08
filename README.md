@@ -17,10 +17,6 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1xqCobK7EjO4i_k7jWJn9hxCfbkRPRYUnUI1xkAuBg-Y/edit?tab=t.0](https://docs.google.com/document/d/1xqCobK7EjO4i_k7jWJn9hxCfbkRPRYUnUI1xkAuBg-Y/edit?tab=t.0)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/agrimgupta0805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agrimgupta0805" height="30" width="40" /></a>
