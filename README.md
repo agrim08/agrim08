@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/agrimgupta0805" target="blank"><img src="https://img.shields.io/twitter/follow/agrimgupta0805?logo=twitter&style=for-the-badge" alt="agrimgupta0805" /></a> </p>
 
-- 🔭 I’m currently working on [MERN CHAT-APP](https://github.com/agrim08/MERNChatApp)
+- 🔭 CHeckOut my latest project : https://chatapp-hyrs.onrender.com/
 
 - 🌱 I’m currently learning **NextJs**
 
