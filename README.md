@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/agrimgupta0805" target="blank"><img src="https://img.shields.io/twitter/follow/agrimgupta0805?logo=twitter&style=for-the-badge" alt="agrimgupta0805" /></a> </p>
 
-- 🔭 - 📄 Check out my portfolio website [https://agrim-portfolio.vercel.app/]
+- 🔭 - 📄 Check out my portfolio website https://agrim-portfolio.vercel.app/
 
 - 🌱 I’m currently learning **NextJs**
 
