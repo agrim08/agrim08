@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/agrimgupta0805" target="blank"><img src="https://img.shields.io/twitter/follow/agrimgupta0805?logo=twitter&style=for-the-badge" alt="agrimgupta0805" /></a> </p>
 
-- 🔭 CHeckOut my latest project : https://chatapp-hyrs.onrender.com/
+- 🔭 - 📄 Check out my portfolio website [https://agrim-portfolio.vercel.app/]
 
 - 🌱 I’m currently learning **NextJs**
 
@@ -14,8 +14,6 @@
 - 💬 Ask me about **react, tailwind , python, nodeJs, expressJs**
 
 - 📫 How to reach me **agrimgupta8105@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1xqCobK7EjO4i_k7jWJn9hxCfbkRPRYUnUI1xkAuBg-Y/edit?tab=t.0](https://docs.google.com/document/d/1xqCobK7EjO4i_k7jWJn9hxCfbkRPRYUnUI1xkAuBg-Y/edit?tab=t.0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
