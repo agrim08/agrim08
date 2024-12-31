@@ -7,7 +7,7 @@
 
 - 🔭 - 📄 Check out my portfolio website https://agrim-portfolio.vercel.app/
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📝 I regularly write articles on [https://medium.com/@agrimgupta0805](https://medium.com/@agrimgupta0805)
 
