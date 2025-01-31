@@ -91,7 +91,7 @@
 
 ### 🌐 Let's Connect
 
-[![Twitter](https://img.shields.io/twitter/follow/agrimgupta0805?color=1DA1F2&logo=twitter&style=for-the-badge)](https://x.com/AgrimGupta0805)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/AgrimGupta0805)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/agrimgupta)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@agrimgupta0805)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrimgupta8105@gmail.com)
