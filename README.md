@@ -90,7 +90,7 @@
 ---
 
 ### 🌐 Let's Connect
-<br/>
+
 [![Twitter](https://img.shields.io/twitter/follow/agrimgupta0805?color=1DA1F2&logo=twitter&style=for-the-badge)](https://x.com/AgrimGupta0805)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/agrimgupta)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@agrimgupta0805)
