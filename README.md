@@ -17,6 +17,8 @@
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
+![Shadcn](https://img.shields.io/badge/-shadcn-000000?logo=react&logoColor=white&style=flat)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
 
 **Backend**  
@@ -52,10 +54,10 @@
 
 ### 📌 Pinned
 
-- 🔭 Currently building [Portfolio Website](https://agrim-portfolio.vercel.app/) with Next.js
-- 🌱 Learning **Generative AI** & **Cloud Computing**
+- 🔭 Currently building [GenAI app] with Next.js
+- 🌱 Learning **Generative AI** 
 - ✍️ Regular tech writer on [Medium](https://medium.com/@agrimgupta0805)
-- 💡 Ask me about: React optimization, REST APIs, or Python automation
+- 💡 Ask me about: MERN stack, Python & Artificial Intelligence
 
 ---
 
