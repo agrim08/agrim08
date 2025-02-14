@@ -78,9 +78,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<a href="https://wakatime.com/@b18a6892-8379-44af-9031-f5c27043cdd3"><img src="https://wakatime.com/badge/user/b18a6892-8379-44af-9031-f5c27043cdd3.svg" alt="Total time coded since Dec 12 2024" /></a>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=agrim08&theme=dark&border_radius=5)](https://git.io/streak-stats)
+
+<a href="https://wakatime.com/@b18a6892-8379-44af-9031-f5c27043cdd3"><img src="https://wakatime.com/badge/user/b18a6892-8379-44af-9031-f5c27043cdd3.svg" alt="Total time coded since Dec 12 2024" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrim08&layout=compact&theme=vision-friendly-dark)](https://github.com/agrim08/github-readme-stats)
 
