@@ -78,6 +78,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+[![wakatime](https://wakatime.com/badge/user/b18a6892-8379-44af-9031-f5c27043cdd3.svg)](https://wakatime.com/@b18a6892-8379-44af-9031-f5c27043cdd3)
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=agrim08&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
