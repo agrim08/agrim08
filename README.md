@@ -42,7 +42,6 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
 ![LLM](https://img.shields.io/badge/-LLMs-FF6F61?logo=openai&logoColor=white&style=flat)
 ![LangChain](https://img.shields.io/badge/-LangChain-FF6F61?logo=openai&logoColor=white&style=flat)
-![Scikit-Learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 
 ---
 
