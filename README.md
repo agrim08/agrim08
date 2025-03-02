@@ -2,7 +2,8 @@
   
 # 👋 Hello World! I'm Agrim Gupta 
 ### *A passionate Full Stack Developer crafting digital solutions* 🚀  
-🌐 Pursuing B.Tech in Computer Science @ JSSATE, Noida  
+🌐 Pursuing B.Tech in Computer Science @ JSSATE, Noida.
+⭐ SDE Intern at Kartavya Tech
 💻 Fresher | Open Source Contributor  
 
 [![Portfolio](https://img.shields.io/badge/🔗_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://agrim-portfolio.vercel.app/)
