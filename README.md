@@ -4,7 +4,7 @@
 ### *A passionate Full Stack Developer crafting digital solutions* 🚀  
 🌐 Pursuing B.Tech in Computer Science @ JSSATE, Noida | 
 ⭐ SDE Intern at Kartavya Tech | 
-💻 Fresher | Open Source Contributor  
+💻 Fresher | Open Source Contributor | Freelencer
 
 [![Portfolio](https://img.shields.io/badge/🔗_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://agrim-portfolio.vercel.app/)
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrim-gupta08/)
