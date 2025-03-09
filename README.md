@@ -2,7 +2,7 @@
   
 # 👋 Hello World! I'm Agrim Gupta 
 ### *A passionate Full Stack Developer crafting digital solutions* 🚀  
-🌐 Pursuing B.Tech in Computer Science @ JSSATE, Noida | 
+🌐 Pursuing B.Tech(CSE) @ JSSATE, Noida | 
 ⭐ SDE Intern at Kartavya Tech | 
 💻 Fresher | Open Source Contributor | Freelencer
 
