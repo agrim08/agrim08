@@ -71,7 +71,7 @@
 - 🌱 Learning **Generative AI** 
 - ✍️ Regular tech writer on [Medium](https://medium.com/@agrimgupta0805)
 - 💡 Ask me about: MERN stack, Python & Artificial Intelligence
-- 🚀 Check out my new project - https://synthia-ai-plum.vercel.app/
+
 
 ---
 
