@@ -62,16 +62,7 @@
 **Cloud & Services** 
 <br/>
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
-![AWS](<svg xmlns="http://www.w3.org/2000/svg" width="120" height="30" viewBox="0 0 120 30" fill="none">
-  <!-- Background -->
-  <rect width="120" height="30" rx="5" fill="#000000"/>
-  
-  <!-- AWS Logo -->
-  <image href="https://your-hosted-logo-url/aws-logo.png" x="10" y="5" height="20" width="20"/>
-  
-  <!-- Text -->
-  <text x="40" y="20" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">aws</text>
-</svg>)
+![AWS](https://fastpng.com/images/file/aws-logo-qvdq2o9avp1uz5kc.png)
 
 
 ---
