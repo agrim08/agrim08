@@ -62,7 +62,7 @@
 **Cloud & Services** 
 <br/>
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
-![AWS](https://fastpng.com/images/file/aws-logo-qvdq2o9avp1uz5kc.png)
+![AWS](https://img.shields.io/badge/-aws-000000?logo=amazon-aws&logoColor=FF9900&style=flat)
 
 
 ---
