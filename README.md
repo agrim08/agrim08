@@ -36,6 +36,7 @@
 ![MongoDb](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-aws-000000?logo=amazon-aws&logoColor=FF9900&style=flat)
 
 
 **ML/AI**  
