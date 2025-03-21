@@ -70,7 +70,7 @@
 ### 📌 Pinned
 
 - 🔭 Currently building **GenAI app** with Next.js
-- 🌱 Learning **Generative AI** 
+- 🌱 Learning **DEVOPS** 
 - ✍️ Regular tech writer on [Medium](https://medium.com/@agrimgupta0805)
 - 💡 Ask me about: MERN stack, Python & Artificial Intelligence
 
