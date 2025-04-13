@@ -6,7 +6,7 @@
 ⭐ SDE Intern at Kartavya Tech | 
 💻 Open Source Contributor
 
-[![Portfolio](https://img.shields.io/badge/🔗_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://agrim-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🔗_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://agrimdev.vercel.app/)
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrim-gupta08/)
   
 </div>
