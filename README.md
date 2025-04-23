@@ -85,7 +85,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrim08&layout=compact&theme=vision-friendly-dark)](https://github.com/agrim08/github-readme-stats)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=agrim08&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
