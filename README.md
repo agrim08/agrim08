@@ -85,6 +85,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrim08&layout=compact&theme=vision-friendly-dark)](https://github.com/agrim08/github-readme-stats)
 
+<a href="https://wakatime.com/@b18a6892-8379-44af-9031-f5c27043cdd3"><img src="https://wakatime.com/badge/user/b18a6892-8379-44af-9031-f5c27043cdd3.svg" alt="Total time coded since Dec 12 2024" /></a>
+
 
 </div>
 
