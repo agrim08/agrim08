@@ -3,7 +3,7 @@
 # 👋 Hello World! I'm Agrim Gupta 
 ### *A passionate Full Stack Developer, creating real world products* ✨
 🌐 Pursuing B.Tech(CSE) @ JSSATE, Noida | 
-⭐ *SDE Intern at Kartavya Tech* | 
+⭐ *SDE Intern at Kartavya Technology* | 
 
 [![Portfolio](https://img.shields.io/badge/🔗_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://agrimdev.vercel.app/)
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrim-gupta08/)
