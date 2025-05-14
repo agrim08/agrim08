@@ -7,6 +7,8 @@
 
 [![Portfolio](https://img.shields.io/badge/🔗_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://agrimdev.vercel.app/)
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrim-gupta08/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@agrimgupta0805)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrimgupta8105@gmail.com)
   
 </div>
 
@@ -94,9 +96,3 @@
 
 ---
 
-### 🌐 Let's Connect
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/AgrimGupta0805)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kjCG65pzh9/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@agrimgupta0805)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrimgupta8105@gmail.com)
