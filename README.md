@@ -72,7 +72,7 @@
 - 🔭 Currently building backend for **saas app** with Node.js
 - 🌱 Learning **DEVOPS** 
 - ✍️ Regular tech writer on [Medium](https://medium.com/@agrimgupta0805)
-- 💡 Ask me about: MERN stack, DevOps & Python 
+- 💡 Ask me about: MERN stack, DevOps, microservices architecture & Python 
 
 
 ---
