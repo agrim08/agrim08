@@ -1,5 +1,4 @@
 <div align="center">
-  
 # 👋 Hello World! I'm Agrim Gupta 
 ### *A passionate Full Stack Developer, creating real world products* ✨
 🌐 Pursuing B.Tech(CSE) @ JSSATE, Noida | 
