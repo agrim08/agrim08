@@ -70,7 +70,7 @@
 ### 📌 Pinned
 
 - 🔭 Currently building backend for **saas app** with Node.js
-- 🌱 Learning **DEVOPS** 
+- 🌱 Learning **Gen AI** 
 - ✍️ Regular tech writer on [Medium](https://medium.com/@agrimgupta0805)
 - 💡 Ask me about: MERN stack, Next.js, DevOps, microservices, Generative AI.
 
