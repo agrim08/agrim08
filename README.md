@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hello World! I'm Agrim Gupta 
-### *A passionate Full Stack Developer, creating real world products* 
+### *A passionate Full Stack Developer, creating real world applications* 
 🌐 Pursuing B.Tech(CSE) @ JSSATE, Noida| 
 ⭐ *SDE Intern at Kartavya Technology* | 
 
